@@ -1,0 +1,12 @@
+.gdb_history
+a.out
+cdromimg/
+datadrct/
+lib/
+pwntools-doc/
+bin/
+-drive
+include/
+lib64
+payload.bin
+pyvenv.cfg
