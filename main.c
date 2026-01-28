@@ -5,7 +5,6 @@
 int main(int argc, char** argv)
 {
     char name[10];
-    printf("%p\n", name);
 
     gets(name);
 
